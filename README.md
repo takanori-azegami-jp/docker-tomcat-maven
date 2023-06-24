@@ -1,2 +1,2 @@
 # docker-tomcat-maven
-TomcatとMavenを使用するためのDocker
+DockerでTomcatとMavenの環境を構築する
